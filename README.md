@@ -223,3 +223,4 @@ Until this is implemented, all preloading must be done directly in the test runn
 
 MIT License. See the [license file](LICENSE.md) for details.
 
+In the current situation, we are not able to create test cases for multiple methods in a single file. Please look into this issue because if we have more than 50 methods in one source code, it would not be an effective approach to create more than 100 test cases files just for a source code.
